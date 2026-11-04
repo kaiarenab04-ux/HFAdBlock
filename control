@@ -1,0 +1,10 @@
+# control
+Package: com.yourname.hfadblock
+Name: HFAdBlock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Ad blocker for Horrorfield
+Maintainer: Lewis
+Author: Lewis
+Section: Tweaks
